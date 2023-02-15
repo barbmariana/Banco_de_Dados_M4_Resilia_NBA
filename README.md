@@ -5,4 +5,4 @@ Trabalho em grupo sobre banco de dados da NBA para o bootcamp da Resilia.
 
 Group work about NBA databases for Resilia bootcamp. 
 
-<img src="images/NBA.jpg">
+<img src="/Images/NBA.jpg"/>
