@@ -6,6 +6,6 @@
 4. Qual o time que mais pontuou em casa? :white_check_mark:
 5. Quais foram os 10 primeiros jogadores que passaram de 35 pontos e o seu time? :white_check_mark:
 6. Qual foi o time que mais pontuou fora de casa? :white_check_mark:
-7. Qual o jogador com maior taxa de acerto de arremessos de três pontos?
+7. Qual o jogador com maior taxa de acerto de arremessos de três pontos? :white_check_mark:
 8. Quais os top 10 jogadores da temporada?
 
