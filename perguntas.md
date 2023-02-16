@@ -7,5 +7,4 @@
 5. Quais foram os 10 primeiros jogadores que passaram de 35 pontos e o seu time? :white_check_mark:
 6. Quais foram os 5 times com mais pontos fora de casa em uma partida no ano de 2019? :white_check_mark:
 7. Quais os 10 primeiros com maior taxa de acerto de arremessos de três pontos? :white_check_mark:
-8. Quais os top 10 jogadores da temporada?
 
