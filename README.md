@@ -18,4 +18,6 @@ Do some queries in the NBA database and answer some questions that ourselves cre
 ## O projeto / The project
 
 <img src="/Images/slide1.png"/>
+
+## As perguntas / The Questions
 <img src="/Images/slidePerguntas.png"/>
