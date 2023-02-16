@@ -13,3 +13,9 @@ Fazer queries no banco de dados disponibilizado e responder perguntas criadas pe
 (EN)
 
 Do some queries in the NBA database and answer some questions that ourselves created.
+
+
+## O projeto / The project
+
+<img src="/Images/slide1"/>
+<img src="/Images/slidePerguntas"/>
