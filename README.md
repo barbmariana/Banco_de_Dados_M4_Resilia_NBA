@@ -25,26 +25,26 @@ Do some queries in the NBA database and answer some questions that ourselves cre
 ## Queries e Respostas / Queries and Answers
 
 <h3> Pergunta 1 </h3>
-<img src="/querys/query1print.png/">
-<img src="/querys/query12print.png/">
+<img src="/querys/query1print.png"/>
+<img src="/querys/query12print.png"/>
 
 <h3> Pergunta 2 </h3>
-<img src="querys/query2print.png/">
+<img src="querys/query2print.png"/>
 
 
 <h3> Pergunta 3 </h3>
-<img src="/querys/query3print.png/">
+<img src="/querys/query3print.png"/>
 
 <h3> Pergunta 4 </h3>
-<img src="/querys/query4print.png/">
+<img src="/querys/query4print.png"/>
 
 <h3> Pergunta 5 </h3>
-<img src="/querys/query5print.png/">
+<img src="/querys/query5print.png"/>
 
 <h3> Pergunta 6 </h3>
-<img src="/querys/query6print.png/">
+<img src="/querys/query6print.png"/>
 
 <h3> Pergunta 7 </h3>
-<img src="/querys/query7print.png/">
+<img src="/querys/query7print.png"/>
 
 
