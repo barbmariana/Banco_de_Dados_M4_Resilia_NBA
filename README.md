@@ -17,5 +17,5 @@ Do some queries in the NBA database and answer some questions that ourselves cre
 
 ## O projeto / The project
 
-<img src="/Images/slide1"/>
-<img src="/Images/slidePerguntas"/>
+<img src="/Images/slide1.png"/>
+<img src="/Images/slidePerguntas.png"/>
