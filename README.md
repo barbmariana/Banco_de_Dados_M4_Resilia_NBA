@@ -23,12 +23,12 @@ Do some queries in the NBA database and answer some questions that ourselves cre
 <img src="/Images/slidePerguntas.png"/>
 
 ## Queries e Respostas / Queries and Answers
-<img src="/querys/query1print.png/>
-<img src="/querys/query12print.png/>
-<img src="/querys/query3print.png/>
-<img src="/querys/query4print.png/>
-<img src="/querys/query5print.png/>
-<img src="/querys/query6print.png/>
-<img src="/querys/query7print.png/>
+<img src="/querys/query1print.png/">
+<img src="/querys/query12print.png/">
+<img src="/querys/query3print.png/">
+<img src="/querys/query4print.png/">
+<img src="/querys/query5print.png/">
+<img src="/querys/query6print.png/">
+<img src="/querys/query7print.png/">
 
 
