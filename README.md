@@ -3,7 +3,7 @@ Trabalho em grupo sobre banco de dados da NBA para o bootcamp da Resilia.
 
 (EN)
 
-Group work about NBA databases for Resilia bootcamp. 
+Group work about NBA databases for Resilia bootcamp
 
 <img src="/Images/NBA.jpg"/>
 
